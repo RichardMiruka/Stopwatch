@@ -24,27 +24,28 @@ Stopwatch Preview
 
 # Installation
 1. Clone the repository:
-2. 
-```git clone git@github.com:RichardMiruka/Stopwatch.git```
+ 
+```git clone https://github.com/RichardMiruka/Stopwatch.git```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
+   
+```cd Stopwatch```
 
-bash
-Copy code
-cd stopwatch
-Usage
-Open index.html in a web browser to view the stopwatch.
-Click the "Start" button to start the stopwatch.
-Click the "Stop" button to pause the stopwatch.
-Click the "Reset" button to reset the stopwatch to zero.
-Contributing
+# Usage
+1. Open index.html in a web browser to view the stopwatch.
+2. Click the "Start" button to start the stopwatch.
+3. Click the "Stop" button to pause the stopwatch.
+4. Click the "Reset" button to reset the stopwatch to zero.
+
+# Contributing
 Contributions are welcome! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
 
-Fork the project.
-Create your feature branch (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
-Open a pull request.
-License
+1. Fork the project.
+2. Create your feature branch (git checkout -b feature/AmazingFeature).
+3. Commit your changes (git commit -m 'Add some AmazingFeature').
+4. Push to the branch (git push origin feature/AmazingFeature).
+5. Open a pull request.
+
+# License
 This project is licensed under the MIT License.
 
