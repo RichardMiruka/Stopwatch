@@ -25,7 +25,7 @@ Stopwatch Preview
 # Installation
 1. Clone the repository:
 2. 
-```git clone https://github.com/y/stopwatch.git```
+```git clone git@github.com:RichardMiruka/Stopwatch.git```
 
 Navigate to the project directory:
 
